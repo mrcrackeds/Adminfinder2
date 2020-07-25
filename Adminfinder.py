@@ -4,7 +4,7 @@
 # mencari login admin
 # Author : MR.CRACKED
 import urllib2,os,sys
-MR.CRACKED = """\033[1;32m
+MR_CRACKED = """\033[1;32m
               _           _         ______ _           _           
      __      | |         |_|       |  ____|_|         | |          
     /  \   __| |_ __ ___  _ _ __   | |__   _ _ __   __| | ___ _ __ 
