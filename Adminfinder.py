@@ -18,7 +18,7 @@ MR_CRACKED = """\033[1;32m
  ++++++++++++++++++++++++++++
 \033[1;96m
 """
-print "MR.CRACKED"
+print "MR_CRACKED"
 site = raw_input("$> Masukkan url Website~> ")
 if "http://" not in site:
     site ="http://"+site
