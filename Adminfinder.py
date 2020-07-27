@@ -40,7 +40,7 @@ admin = ['/admin/','/administrator/','/admin1/','/cms/','/admin2/','/admin3/','/
 '/panel-administracion/login.php','/wp-login.php','/adminLogin.php','/admin/adminLogin.php','/home.php','/admin.php','/adminarea/index.php',
 '/adminarea/admin.php','/adminarea/login.php','/panel-administracion/index.php','/panel-administracion/admin.php','/modelsearch/index.php',
 '/modelsearch/admin.php','/admincontrol/login.php','/adm/admloginuser.php','/admloginuser.php','/admin2.php','/admin2/login.php','/admin2/index.php','/usuarios/login.php',
-'/adm/index.php','/adm.php','/affiliate.php','/adm_auth.php','/memberadmin.php','/administratorlogin.php','/user/login','administrator','log','log.php']
+'/adm/index.php','/adm.php','/affiliate.php','/adm_auth.php','/memberadmin.php','/administratorlogin.php','/user/login','/administrator','/log','/log.php']
 for i in admin:
     try:
         adminpanel = urllib2.urlopen(site+i)
